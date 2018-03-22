@@ -4,7 +4,7 @@
 
 # Running the Test 
 To Test the Demo 
-    `npm install` 
+    `npm install` <br />
     `node app.js`
 
 #### Ahmed Mogtaba
